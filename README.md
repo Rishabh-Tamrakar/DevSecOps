@@ -27,7 +27,7 @@ Now DevOps will look something like this\
 
 If we see this as a pipeline so each stage is having security integrated with the help of tools\
 This can be explained with a diagram below.
-<img src="https://github.com/Rishabh-Tamrakar/DevSecOps/blob/master/images/DevSecOps%20Pipeline.jpeg" align="left" height="550" width="850">
+<img src="https://github.com/Rishabh-Tamrakar/DevSecOps/blob/master/images/DevSecOps%20Pipeline.jpeg" align="middle" height="550" width="850">
 
 Now how to configure these tools in your environment?\
 These links below is having steps to configure tools and Explains working too.
