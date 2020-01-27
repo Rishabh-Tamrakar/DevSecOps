@@ -19,7 +19,7 @@ DevSecOps strives to bridge the gaps between IT and security while responding to
 
 * [Gitleaks](https://github.com/zricethezav/gitleaks)
 * [Spotbugs](https://github.com/spotbugs/spotbugs)
-* [OWASP Zap](https://github.com/zaproxy/zaproxy)
+* [OWASP ZAP](https://github.com/zaproxy/zaproxy)
 * [Wazuh](https://github.com/wazuh/wazuh)
 
 Now DevOps will look something like this\
@@ -33,9 +33,9 @@ Now how to configure these tools in your environment?\
 These links below is having steps to configure tools and Explains working too.
 
 * [Configuration of Gitleaks](https://github.com/Rishabh-Tamrakar/DevSecOps/tree/master/Gitleaks)
-* [Configuration  of Spotbugs]()
-* [Configuration  of OWASP Zap]()
-* [Configuration  of Wazuh]()
+* [Configuration of Spotbugs]()
+* [Configuration of OWASP Zap]()
+* [Configuration of Wazuh]()
 
 **CONCLUSION -** There are different ways by which you can enable security in DevOps to add value to your project.\
 By doing so, you are helping to create a culture of security awareness, which leads to secure applications and improved quality security features.
