@@ -16,6 +16,15 @@ The program checks git-repositories for the presence of RSA- and SSH-keys, as we
 * Formation of white lists.
 * Use of regular expressions.
 
+|  `repo scan` |
+|---|
+| <p align="left"><img src="https://github.com/Rishabh-Tamrakar/DevSecOps/blob/master/Gitleaks/Images/repo-scan.gif"></p>  |
+
+| `pre commit scan` |
+|---|
+|  <p align="left"><img src="https://github.com/Rishabh-Tamrakar/DevSecOps/blob/master/Gitleaks/Images/pre-commit-1.gif"></p> |
+
+
 **Configuration and working Of  Gitleaks –**
 Gitleaks can be integrated through Jenkins in two ways First by manually installing gitleaks on the instance on which Jenkins is running Second using pre-configured Docker image of gitleaks.\
 Here we are manual installing for scanning and report generation.
@@ -37,7 +46,14 @@ gitleaks -v --repo=GITHUB_REPOSITORY  --report=gitleaks_results.csv
 ```
 Note :-  Reports can be generated either in CSV or in Json format.
 
+<img src="https://github.com/Rishabh-Tamrakar/DevSecOps/blob/master/Gitleaks/Images/1.jpg" align="middle" height="250" width="800">
+
 •	After the scanning of our git repository we need to buid our project if the scanning is passed and suucessful. So we will trigger other project for build and deployment.\
 In Post-Build Actions, We will choose Build other projects and provide the project name to be triggered if git scanning is stable.
 
+<img src="https://github.com/Rishabh-Tamrakar/DevSecOps/blob/master/Gitleaks/Images/2.jpg" align="middle" height="200" width="600">
+
+
 •	Click on Apply and Save and Click Build Now. Once build is completed, we can view Gitleaks Report in our workspace .
+
+<img src="https://github.com/Rishabh-Tamrakar/DevSecOps/blob/master/Gitleaks/Images/3.jpg" align="middle" height="200" width="700">
