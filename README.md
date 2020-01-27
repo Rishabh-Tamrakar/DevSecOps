@@ -34,7 +34,7 @@ These links below is having steps to configure tools and Explains working too.
 
 * [Configuration of Gitleaks](https://github.com/Rishabh-Tamrakar/DevSecOps/tree/master/Gitleaks)
 * [Configuration of Spotbugs]()
-* [Configuration of OWASP Zap]()
+* [Configuration of OWASP ZAP](https://github.com/Rishabh-Tamrakar/DevSecOps/tree/master/OWASP%20Zed%20Attack%20Proxy%20(ZAP))
 * [Configuration of Wazuh]()
 
 **CONCLUSION -** There are different ways by which you can enable security in DevOps to add value to your project.\
