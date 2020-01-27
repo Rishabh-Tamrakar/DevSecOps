@@ -32,7 +32,7 @@ This can be explained with a diagram below.
 Now how to configure these tools in your environment?\
 These links below is having steps to configure tools and Explains working too.
 
-* [Configuration of Gitleaks]()
+* [Configuration of Gitleaks](https://github.com/Rishabh-Tamrakar/DevSecOps/tree/master/Gitleaks)
 * [Configuration  of Spotbugs]()
 * [Configuration  of OWASP Zap]()
 * [Configuration  of Wazuh]()
